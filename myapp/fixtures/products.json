@@ -1,0 +1,33 @@
+[
+    {
+    "model": "myapp.product",
+    "pk": 1,
+    "fields": {
+    "name": "Shirt",
+    "price": "10.99", 
+    "description": "Large"
+    }
+    },
+   
+    {
+    "model": "myapp.product",
+    "pk": 2,
+    "fields": {
+    "name": "PTrack pants",
+    "price": "5.99",
+    "description": "Mens"
+    }
+    } , 
+
+    {
+        "model": "myapp.product",
+        "pk": 3,
+        "fields": {
+        "name": "yoga Mat",
+        "price": "39.99",
+        "description": "for adults"
+        }
+        }
+
+    
+    ]
